@@ -5,7 +5,7 @@
 
 </div>
 
-### 👋 Hi, I'm Luigi — a *viberist*
+### 卐 Hi, I'm Luigi — a *viberist 卐*
 
 I don't write bugs, I ship **surprise features**.
 
@@ -28,6 +28,6 @@ Didn't work? You forgot `.env`. 🙃
 
 <div align="center">
 
-*"I don't always write code, but when I do, it returns JSON."* 🍻
+*"JSON VS .NET"* 🍻
 
 </div>
