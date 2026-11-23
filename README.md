@@ -4,31 +4,26 @@
 
 </div>
 
-### 👋 Hi, I'm Luigi — a *viberist*
+## luigi
 
-I don't write bugs, I ship **surprise features**.
+i'm luigi. i build stuff in laravel and i really like json. that's about it.
 
-```json
-{
-  "name": "Luigi",
-  "loves": ["Laravel", "JSON", "vibes"],
-  "bugs": null,
-  "bugs_actually": "yes"
-}
-```
+most of my code was written at 2am and i don't remember writing it. if it works, great. if it doesn't, it worked yesterday.
 
-### 🚀 Run it
+## running it
 
 ```bash
-composer install && cp .env.example .env && php artisan key:generate && php artisan migrate && php artisan serve
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
 ```
 
-Didn't work? You forgot `.env`. 🙃
+if it breaks, you forgot the .env. everybody forgets the .env.
 
 <div align="center">
 
-<img src="./travis.gif" alt="It's lit" width="320" />
-
-*"I don't always write code, but when I do, it returns JSON."* 🍻
+<img src="./travis.gif" alt="" width="320" />
 
 </div>
