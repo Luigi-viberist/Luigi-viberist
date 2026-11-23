@@ -28,6 +28,6 @@ Didn't work? You forgot `.env`. 🙃
 
 <div align="center">
 
-*"卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐"* 🍻
+### 卐卐卐卐卐卐 卐卐* 🍻
 
 </div>
