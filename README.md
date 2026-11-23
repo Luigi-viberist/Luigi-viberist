@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <img src="./banner.svg" alt="JSON loves Laravel" width="100%" />
 
 </div>
 
-### 卐 Hi, I'm Luigi — a *viberist 卐*
+### 👋 Hi, I'm Luigi — a *viberist*
 
 I don't write bugs, I ship **surprise features**.
 
@@ -28,6 +27,8 @@ Didn't work? You forgot `.env`. 🙃
 
 <div align="center">
 
-### 卐卐卐卐卐卐 卐卐* 🍻
+<img src="./travis.gif" alt="It's lit" width="320" />
+
+*"I don't always write code, but when I do, it returns JSON."* 🍻
 
 </div>
