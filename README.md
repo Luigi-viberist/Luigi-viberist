@@ -28,6 +28,6 @@ Didn't work? You forgot `.env`. 🙃
 
 <div align="center">
 
-*"JSON VS .NET"* 🍻
+*"卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐"* 🍻
 
 </div>
