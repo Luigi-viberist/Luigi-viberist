@@ -12,17 +12,7 @@ most of my code was written at 2am and i don't remember writing it.
 
 > yesterday it was still running. only god and i know how it works. now only god knows how it works.
 
-## running it
-
-```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
-```
-
-if it breaks, you forgot the .env. everybody forgets the .env.
+##卍卍卍卍
 
 <div align="center">
 
