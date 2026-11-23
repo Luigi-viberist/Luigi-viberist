@@ -8,7 +8,9 @@
 
 i'm luigi. i build stuff in laravel and i really like json. that's about it.
 
-most of my code was written at 2am and i don't remember writing it. if it works, great. if it doesn't, it worked yesterday.
+most of my code was written at 2am and i don't remember writing it.
+
+> yesterday it was still running. only god and i know how it works. now only god knows how it works.
 
 ## running it
 
