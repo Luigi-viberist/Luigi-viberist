@@ -12,7 +12,6 @@ most of my code was written at 2am and i don't remember writing it.
 
 > yesterday it was still running. only god and i know how it works. now only god knows how it works.
 
-##卍卍卍卍
 
 <div align="center">
 
