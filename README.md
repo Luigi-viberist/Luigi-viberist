@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="./banner.svg" alt="JSON loves Laravel" width="100%" />
+# Hi, I'm Luigi 👋
 
-</div>
+**Laravel developer · JSON enthusiast**
 
-## luigi
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
 
-i'm luigi. i build stuff in laravel and i really like json. that's about it.
-
-most of my code was written at 2am and i don't remember writing it.
-
-> yesterday it was still running. only god and i know how it works. now only god knows how it works.
+<br/>
 
 
-<div align="center">
+
+> *Yesterday it was still running.*
+> *Only God and I know how it works.*
+> *Now only God knows how it works.*
+
 
 <img src="./emblem.svg" alt="" width="520" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="./travis.gif" alt="" width="320" />
 
 </div>
