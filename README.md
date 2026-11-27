@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,blazor,mysql,tailwind,git,github,vscode&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,mysql,tailwind,git,github,vscode&perline=9&theme=dark" />
 </p>
 
 ---
