@@ -1,28 +1,17 @@
-<div align="center">
+# 👋 Hi, I'm Luigi
 
-# Hi, I'm Luigi 👋
-
-
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Laravel+%7C+PHP+%7C+C%23+%7C+Blazor;Building+things+with+code" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,blazor,mysql,tailwind,git,github,vscode&perline=10&theme=dark" />
+</p>
 
+---
 
-
-> *Yesterday it was still running.*
-> *Only God and I know how it works.*
-> *Now only God knows how it works.*
-
-
-
-
-<br/><br/>
-
-
-</div>
+<p align="center">
+  <i>Yesterday it was still running.</i><br/>
+  <i>Only God and I know how it works.</i><br/>
+  <i>Now only God knows how it works.</i>
+</p>
